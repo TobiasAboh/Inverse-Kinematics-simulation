@@ -34,7 +34,6 @@ def main():
 			m=True
 		if m:
 			bot.move(x, y)
-		print(bot.segments[0].angle, angle)
 		pygame.draw.circle(window, (50, 0, 255), (x, y), 7)
 		bot.draw(window)
 		clear()
