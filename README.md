@@ -10,7 +10,6 @@ A small interactive inverse-kinematics simulation built with Python and Pygame. 
 
 - Python
 - Pygame
-- Inverse kinematics / interactive simulation
 
 ## Run locally
 
